@@ -5,8 +5,12 @@
 }
 
 body{
-    background-color: aqua;
+    background-image: url('./img/bg-green.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
+
 
 .container{
     display: flex;
